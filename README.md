@@ -1,4 +1,4 @@
-# hello-world
+# the first word
 
 ## Project setup
 ```
