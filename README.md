@@ -1,6 +1,6 @@
 # the first word
 
-## Project setup
+## 想要吃饭
 ```
 npm install
 ```
